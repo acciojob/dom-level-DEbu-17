@@ -1,5 +1,5 @@
 //your JS code here. If required.
-let count = 1;
+let count = 0;
 let levelElement = document.getElementById("level");
 
 while(true){
